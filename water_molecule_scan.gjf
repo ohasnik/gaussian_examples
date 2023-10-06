@@ -1,0 +1,12 @@
+# HF cc-pvdz
+# scan
+
+water molecule scan
+
+0 1
+O
+H 1 r1
+H 1 r1 2 a1
+
+r1=0.8,16,0.025
+a1=90.0,20,2.0
