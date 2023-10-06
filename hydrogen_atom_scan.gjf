@@ -1,0 +1,9 @@
+# B3LYP def2svp Scan
+
+hydrogen atom scan
+
+0 1
+H
+H 1 r1
+
+r1=0.5,40,0.05
